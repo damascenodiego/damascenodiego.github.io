@@ -1,7 +1,16 @@
 ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-[Curriculum Vitae]{}
+{% include base_path %}
+
+
+[Full Curriculum Vitae](files/damasceno_cv.pdf)
 
 [Personal Information]{}
 
