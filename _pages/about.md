@@ -14,7 +14,11 @@ from the Institute of Mathematics and Computer Sciences at the University of Sã
 I also hold a BSc in Computer Science from the Institute of Exact and Natural Sciences at the Federal University of Pará (UFPa).
 
 I am a computer scientist by training with background in 
-Software testing, formal methods, software product lines and empirical software engineering.
+software engineering,
+software testing, 
+formal methods, 
+software product lines, 
+and empirical software engineering.
 My research is mainly focused on model-based techniques for 
 verification, validation and testing.
 
