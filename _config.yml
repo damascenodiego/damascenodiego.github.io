@@ -309,27 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Jekyll-Scholar
-scholar:
-
-  last_name: Damasceno
-
-  style: ieee-with-url
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: /_publications/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-#  details_dir: publications
-#  details_layout: bib.html
-#  details_link: Details
-
-  query: "@*"
