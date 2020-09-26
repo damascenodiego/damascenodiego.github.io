@@ -34,7 +34,7 @@ Research Interests
 - Software Product Lines
 - Empirical Software Engineering
 
-    Summary of degrees and main previous experiences:
+    Summary of degrees and previous experiences:
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
 - **Visiting Ph.D. research student** at [University of Leicester](http://le.ac.uk/) (Oct/2018 - Dec/2019)
