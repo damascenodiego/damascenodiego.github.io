@@ -84,37 +84,37 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD researcher in Computer Science (he/him)"
   location         : "Brazil"
-  employer         : Universidade de Sao Paulo
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=damascenodiego"
+  employer         : ICMC-USP
+#  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=damascenodiego"
   googlescholar    : "https://scholar.google.com/citations?user=7iDXQbYAAAAJ"
   email            : damasceno.diego@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Carlos_Diego_Damasceno"
   uri              :
-  bitbucket        : damascenodiego
-  codepen          :
-  dribbble         :
-  flickr           :
+#  bitbucket        : damascenodiego
+#  codepen          :
+#  dribbble         :
+#  flickr           :
   facebook         : damascenodiego
-  foursquare       :
+#  foursquare       :
   github           : "damascenodiego"
-  google_plus      :
-  keybase          :
-  instagram        : damascenocdn
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+#  google_plus      :
+#  keybase          :
+#  instagram        : damascenocdn
+#  impactstory      : "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#  lastfm           :
   linkedin         : damascenodiego
   orcid            : "https://orcid.org/0000-0001-8492-7484"
-  pinterest        :
-  soundcloud       : damascenodiego
-  stackoverflow    : 12903175/damascenodiego
-  steam            :
-  tumblr           :
+#  pinterest        :
+#  soundcloud       : damascenodiego
+#  stackoverflow    : 12903175/damascenodiego
+#  steam            :
+#  tumblr           :
   twitter          : "damascenodiego"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : damascenodiego1
-  wikipedia        : Damasceno.diego
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          : damascenodiego1
+#  wikipedia        : Damasceno.diego
 
 
 # Reading Files
