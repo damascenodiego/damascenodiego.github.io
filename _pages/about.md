@@ -76,7 +76,7 @@ a one year working experience as a Software Engineering at Siemens,
 and a two years research experience as a Research assistant of
 the Institutional Program for Scientific Initiation Scholarships (PIBIC).
 
-Summary of degrees and previous experiences
+Summary of degrees and main previous experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
 - **Visiting Ph.D. research student** at University of Leicester (Oct/2018 - Dec/2019)
