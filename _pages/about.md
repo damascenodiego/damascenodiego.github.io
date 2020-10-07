@@ -15,24 +15,6 @@ I am a student supervisor in the
 [Postgraduate course (_Lato Sensu_) on Applied Computing in Education](http://especializacao.icmc.usp.br/) 
 of the University of São Paulo (USP, Brazil).
 
-Research Interests
-------
-
-- Software Engineering
-- Software Testing
-- Model-Based Testing
-- Model-Driven Engineering
-- Automata learning (e.g., Angluin L\*, L\*_M, RPNI)
-- Test Case Generation Methods
-- Test Case Prioritization
-- Formal Methods
-- Software Product Lines
-- Software Variability
-- Empirical Software Engineering
-- Project Management
-- Research Data Management (RDM)
-
-
 Brief bio
 ------
 
@@ -76,6 +58,23 @@ a one year working experience as a Software Engineering at Siemens,
 and a two years research experience as a Research assistant of
 the Institutional Program for Scientific Initiation Scholarships (PIBIC).
 
+Research Interests
+------
+
+- Software Engineering
+- Software Testing
+- Model-Based Testing
+- Model-Driven Engineering
+- Automata learning (e.g., Angluin L\*, L\*_M, RPNI)
+- Test Case Generation and Prioritization
+- Formal Methods
+- Software Product Lines
+- Software Variability
+- Empirical Software Engineering
+- Project Management
+- Research Data Management (RDM)
+
+
 Summary of degrees and main previous experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
@@ -83,3 +82,5 @@ Summary of degrees and main previous experiences
 - **M.Sc.** in Computer Science at the University of São Paulo (2014 - 2016)
 - **Software engineering intern** at Siemens Corporate Research, USA (Oct/2012 - Jul/2013)
 - **B.Sc.** in Computer Science at the Federal University of Pará (2008 - 2013)
+
+<br/>
