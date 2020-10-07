@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Dr. Diego Damasceno. 
-I am a researcher in model-based software engineering.
+Hi! My name is **Dr. Diego Damasceno**. 
+I am a researcher in _model-based software engineering_.
 Currently, 
 I am a student supervisor in the 
-[Postgraduate course (_Lato Sensu_) on Applied Computing in Education](http://especializacao.icmc.usp.br/) 
+_Postgraduate course on Applied Computing in Education_ 
 of the University of São Paulo (USP, Brazil).
 
 Brief bio
@@ -20,8 +20,9 @@ Brief bio
 
 
 I have joined the [University of Sao Paulo](http://usp.br/) as a
-student supervisor of the Postgraduate course on
-Applied Computing in Education in April 2020.
+student supervisor of the 
+[Postgraduate course on Applied Computing in Education](http://especializacao.icmc.usp.br/)
+in April 2020.
 As a student supervisor, 
 I have been guiding students on 
 the development of their final year projects 
