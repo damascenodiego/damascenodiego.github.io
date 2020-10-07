@@ -1,5 +1,5 @@
 ---
-title: Learning from Difference
+title: Learning to Reuse
 excerpt: "Adaptive model learning for evolving systems<br/><img src='/images/partialDynamicLstarM.png'>"
 collection: portfolio
 ---
