@@ -52,12 +52,15 @@ Role-Based Access Control systems.
 
 I hold a Bachelor in Computer Science 
 from the [Institute of Exact and Natural Sciences](http://www.icen.ufpa.br/) 
-of the Federal University of Pará (UFPa).
+of the [Federal University of Pará](http://www.ufpa.br/) (UFPa).
 Within the scope of my undergraduate course,
-I also had 
-a one year working experience as a Software Engineering at Siemens,
-and a two years research experience as a Research assistant of
-the Institutional Program for Scientific Initiation Scholarships (PIBIC).
+I had a one year working experience as a Software Engineering at [Siemens Corporate Research](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html),
+and two years research experience in the
+Institutional Scientific Initiation Scholarship Program  (PIBIC)  
+at the 
+[High Performance Network Planning Laboratory - LPRAD/UFPa](http://lprad.ufpa.br/) (2010-2011)
+and the
+[Laboratory of Computational Intelligence - LINC/UFPa](http://linc.ufpa.br/) (2011-2012).
 
 
 Research Interests
