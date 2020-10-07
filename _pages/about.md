@@ -18,17 +18,19 @@ of the University of São Paulo (USP, Brazil).
 Research Interests
 ------
 
-My research interests include 
-software testing, 
-test case generation and prioritization,
-automata learning, 
-model-based testing,
-model-driven engineering,
-software variability, 
-software product lines, 
-project management,
-empirical software engineering, and
-research data management (RDM).
+- Software Engineering
+- Software Testing
+- Model-Based Testing
+- Model-Driven Engineering
+- Automata learning (e.g., Angluin L\*, L\*_M, RPNI)
+- Test Case Generation Methods
+- Test Case Prioritization
+- Formal Methods
+- Software Product Lines
+- Software Variability
+- Empirical Software Engineering
+- Project Management
+- Research Data Management (RDM)
 
 
 Brief bio
@@ -42,7 +44,8 @@ As a student supervisor,
 I have been guiding students on 
 the development of their final year projects 
 in the topic of Educational data analysis.
-Before that, I was a research assistant and 
+
+Previously, I was a research assistant and 
 PhD candidate at the Institute of Mathematics and Computer Sciences 
 of the University of São Paulo ([ICMC-USP](http://icmc.usp.br/), Brazil), 
 under the joint supervision of 
@@ -67,21 +70,13 @@ Role-Based Access Control systems.
 I hold a Bachelor in Computer Science 
 from the [Institute of Exact and Natural Sciences](http://www.icen.ufpa.br/) 
 of the Federal University of Pará (UFPa).
-Within the scope of my academic life,
- I also have working experience 
+Within the scope of my undergraduate course,
+I also had 
+a one year working experience as a Software Engineering at Siemens,
+and a two years research experience as a Research assistant of
+the Institutional Program for Scientific Initiation Scholarships (PIBIC).
 
-
-- Software Engineering
-- Model-Based Testing
-- Software Testing
-- Automata learning (e.g., Angluin L\*, L\*M, RPNI)
-- Test Case Generation Methods
-- Test Case Prioritization
-- Formal Methods
-- Software Product Lines
-- Empirical Software Engineering
-
-    Summary of degrees and previous experiences:
+Summary of degrees and previous experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
 - **Visiting Ph.D. research student** at University of Leicester (Oct/2018 - Dec/2019)
