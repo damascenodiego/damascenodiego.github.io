@@ -8,4 +8,4 @@ collection: portfolio
     <img src='/images/partialDynamicLstarM.png'/>
 </div>
 
-https://github.com/damascenodiego/DynamicLstarM
+[Homepage](https://damascenodiego.github.io/DynamicLstarM/)

@@ -10,4 +10,4 @@ The FFSM_Diff project: An automated approach for learning family models from sof
     <img src='/images/ffsm_diff.png'/>
 </div>
 
-https://github.com/damascenodiego/learningFFSM/
+[Homepage](https://damascenodiego.github.io/learningFFSM/)
