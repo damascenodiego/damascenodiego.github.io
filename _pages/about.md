@@ -70,7 +70,7 @@ a _Software Engineering Intern_ at
 [Siemens](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html),
 and as _Scientific initiation scholar_ in multiple research laboratories at the UFPa, 
 such as the
-Software Engineering Laboratory ([LabES](http://lprad.ufpa.br/)),
+Software Engineering Laboratory ([LabES](http://www.labes.ufpa.br/)),
 High Performance Network Planning Laboratory ([LPRAD](http://lprad.ufpa.br/))
 and 
 Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
