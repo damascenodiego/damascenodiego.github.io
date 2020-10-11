@@ -11,9 +11,9 @@ redirect_from:
 Hi! My name is **Dr. Diego Damasceno**. 
 I am a researcher in _model-based software engineering_.
 Currently, 
-I am a _student supervisor_ in the 
+I work as _Student advisor_ in the 
 _Postgraduate course on Applied Computing in Education_
-of the [University of São Paulo (USP)](http://usp.br/).
+of the University of São Paulo (USP).
 
 
 Research Interests
@@ -38,7 +38,7 @@ In March 2020, I started working on the
 as _online tutor_ in a module on
 _Scientific Writing and Methodology_.
 Later, in April 2020, I started 
-supervising students developing
+as _Student advisor_ of students developing
 term papers on _Educational Data Mining_.
 
 
@@ -49,7 +49,7 @@ under the joint supervision of
 [Adenilso Simao](http://lattes.cnpq.br/9836776931160228) 
 and 
 [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi).
-In the scope of my PhD, I spent 14 months 
+In the scope of my PhD, I spent one year 
 as a Visiting PhD student researcher
 at the [University of Leicester](https://le.ac.uk/informatics/) 
 performing research in the broad field of software engineering.
@@ -76,15 +76,16 @@ and
 Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 
 
-Summary of degrees and main previous experiences
+Summary of degrees and main professional experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
+- **Student advisor** in the Postgraduate course on Applied Computing in Education (2020)
 - **Visiting Ph.D. student researcher** at University of Leicester (2018 - 2019)
 - **M.Sc.** in Computer Science at the University of São Paulo (2014 - 2016)
 - **Scientific Initiation scholar** at the LabES/UFPa (2013)
 - **Software engineering intern** at Siemens Corporate Research, USA (2012 - 2013)
 - **Scientific Initiation scholar** at the LINC/UFPa (2011-2012)
 - **Scientific Initiation scholar** at the LPRAD/UFPa (2010-2011)
-- **B.Sc.** in Computer Science at the Federal University of Pará (2008 - 2013)
+- **B.Sc.** in Computer Science at the Federal University of Pará (2008 - 2014)
 
 <br/>
