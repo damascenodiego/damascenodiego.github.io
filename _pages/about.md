@@ -11,7 +11,7 @@ redirect_from:
 Hi! My name is **Dr. Diego Damasceno**. 
 I am a researcher in _model-based software engineering_.
 Currently, 
-I work as _Student advisor_ in the 
+I work as _Student supervisor_ in the 
 _Postgraduate course on Applied Computing in Education_
 of the University of São Paulo (USP).
 
@@ -33,13 +33,14 @@ Research Interests
 Brief bio
 ------
 
-In March 2020, I started working on the 
+I am a _Student supervisor_ of the 
 [Postgraduate course on Applied Computing in Education](http://especializacao.icmc.usp.br/)
-as _online tutor_ in a module on
-_Scientific Writing and Methodology_.
-Later, in April 2020, I started 
-as _Student advisor_ of students developing
-term papers on _Educational Data Mining_.
+at University of Sao Paulo (CAE-USP).
+Since April 2020, I have been supervising students 
+developing term papers on _Educational Data Mining_.
+Previously, in March 2020, I was a _online tutor_ 
+in a module on
+_Scientific Writing and Methodology_ at the same course.
 
 
 Previously, between 2016-2020, I was a research assistant and 
@@ -79,7 +80,7 @@ Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 Summary of degrees and main professional experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
-- **Student advisor** in the Postgraduate course on Applied Computing in Education (2020)
+- **Student supervisor** in the Postgraduate course on Applied Computing in Education (2020)
 - **Visiting Ph.D. student researcher** at University of Leicester (2018 - 2019)
 - **M.Sc.** in Computer Science at the University of São Paulo (2014 - 2016)
 - **Scientific Initiation scholar** at the LabES/UFPa (2013)
