@@ -15,7 +15,7 @@ I work as _Student supervisor_ in the
 _Postgraduate course on Applied Computing in Education_
 of the University of São Paulo (USP).
 
-**UPDATE:** In December 2020, I will start working at
+**UPDATE:** From December 2020, I will be working at
 [Radboud University](https://sws.cs.ru.nl/) as 
 a Post-Doctoral Researcher.
 
@@ -81,7 +81,7 @@ and
 Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 
 
-Summary of degrees and main professional experiences
+Summary of degrees and main experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
 - **Student supervisor** in the Postgraduate course on Applied Computing in Education (2020)
