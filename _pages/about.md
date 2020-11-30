@@ -11,13 +11,9 @@ redirect_from:
 Hi! My name is **Diego Damasceno**. 
 I am a researcher in _model-based software engineering_.
 Currently, 
-I work as _Student supervisor_ in the 
-_Postgraduate course on Applied Computing in Education_
-of the University of São Paulo (USP).
-
-**UPDATE:** From December 2020, I will be working at
-[Radboud University](https://sws.cs.ru.nl/) as 
-a Post-Doctoral Researcher.
+I am a _Postdoctoral Researcher_ in the 
+_Institute for Computing and Information Sciences (ICIS)_
+of the **[Radboud University](https://sws.cs.ru.nl/)**.
 
 
 Research Interests
@@ -37,33 +33,34 @@ Research Interests
 Brief bio
 ------
 
-I am a _Student supervisor_ of the 
+I am former _Student supervisor_ and _Online tutor_ of the 
 [Postgraduate course on Applied Computing in Education](http://especializacao.icmc.usp.br/)
 at University of Sao Paulo (CAE-USP).
-Since April 2020, I have been supervising students 
-developing term papers on _Educational Data Mining_.
-Previously, in March 2020, I was a _online tutor_ 
-in a module on
-_Scientific Writing and Methodology_ at the same course.
+From March to November 2020, I worked in the CAE-USP 
+supervising students of the developing studies 
+on _Educational Data Mining_
+and 
+producing video content to a module 
+on _Scientific Writing and Methodology_.
 
 
-Previously, between 2016-2020, I was a research assistant and 
-PhD candidate at
-the University of São Paulo ([ICMC/USP](http://icmc.usp.br/)) 
+Between 2016 and 2020, 
+I was a research assistant and PhD candidate at
+the University of São Paulo ([ICMC-USP](http://icmc.usp.br/)) 
 under the joint supervision of 
 [Adenilso Simao](http://lattes.cnpq.br/9836776931160228) 
 and 
 [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi).
-In the scope of my PhD, I spent one year 
-as a Visiting PhD student researcher
+During my PhD, I spent one year 
+as Visiting PhD student researcher
 at the [University of Leicester](https://le.ac.uk/informatics/) 
 performing research in the broad field of software engineering.
 In my [PhD thesis](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-02092020-091958/), 
 I investigated techniques to construct finite state machine models
 from evolving systems.
 
-I earned my Master's degree in Computer Science (2014-2016) also from the ICMC/USP.
-In my [Master's dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-11112016-101158/), 
+I earned my Master's degree in Computer Science (2014-2016) also from the ICMC-USP.
+In my [MSc dissertation](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-11112016-101158/), 
 I performed studies in model-based test generation and prioritization for 
 Role-Based Access Control systems and empirical software engineering.
 
@@ -71,10 +68,10 @@ I hold a Bachelor in Computer Science (2008-2014)
 from the [Federal University of Pará (UFPa)](http://www.icen.ufpa.br/).
 Within the scope of my undergraduate course,
 I had working and research experiences as 
-a _Software Engineering Intern_ at 
+_Software Engineering Intern_ at 
 [Siemens](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html),
-and as _Scientific initiation scholar_ in multiple research laboratories at the UFPa, 
-such as the
+and _Scientific initiation scholar_ of multiple research laboratories at UFPa, 
+such as 
 Software Engineering Laboratory ([LabES](http://www.labes.ufpa.br/)),
 High Performance Network Planning Laboratory ([LPRAD](http://lprad.ufpa.br/))
 and 
