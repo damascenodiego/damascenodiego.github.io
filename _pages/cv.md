@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Curriculum Vitae in PDF](files/damasceno_cv.pdf)
+[Curriculum Vitae in PDF](../files/damasceno_cv.pdf)
 
 
 Summary of degrees and main experiences
