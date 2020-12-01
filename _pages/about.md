@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Diego Damasceno**. 
+Hi! I am dr. **Carlos Diego Nascimento Damasceno**. 
 I am a researcher in _model-based software engineering_.
 Currently, 
 I am a _Postdoctoral Researcher_ in the 
@@ -36,8 +36,8 @@ Brief bio
 I am former _Student supervisor_ and _Online tutor_ of the 
 [Postgraduate course on Applied Computing in Education](http://especializacao.icmc.usp.br/)
 at University of Sao Paulo (CAE-USP).
-From March to November 2020, I worked in the CAE-USP 
-supervising students of the developing studies 
+From March to November 2020, I worked in the CAE-USP course 
+supervising students developing term papers 
 on _Educational Data Mining_
 and 
 producing video content to a module 
@@ -51,7 +51,7 @@ under the joint supervision of
 [Adenilso Simao](http://lattes.cnpq.br/9836776931160228) 
 and 
 [Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi).
-During my PhD, I spent one year 
+During my doctoral studies, I spent one year 
 as Visiting PhD student researcher
 at the [University of Leicester](https://le.ac.uk/informatics/) 
 performing research in the broad field of software engineering.
@@ -80,14 +80,14 @@ Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 
 Summary of degrees and main experiences
 ------
-- **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
+- **PhD** in Computer Science at the University of São Paulo (2016 - 2020)
 - **Co-Supervisor** in the Postgraduate course of Applied Computing in Education (2020)
-- **Visiting Ph.D. student researcher** at University of Leicester (2018 - 2019)
-- **M.Sc.** in Computer Science at the University of São Paulo (2014 - 2016)
+- **Visiting PhD student researcher** at University of Leicester (2018 - 2019)
+- **MSc** in Computer Science at the University of São Paulo (2014 - 2016)
 - **Scientific Initiation scholar** at the LabES/UFPa (2013)
 - **Software engineering intern** at Siemens Corporate Research, USA (2012 - 2013)
 - **Scientific Initiation scholar** at the LINC/UFPa (2011-2012)
 - **Scientific Initiation scholar** at the LPRAD/UFPa (2010-2011)
-- **B.Sc.** in Computer Science at the Federal University of Pará (2008 - 2014)
+- **BSc** in Computer Science at the Federal University of Pará (2008 - 2014)
 
 <br/>
