@@ -81,7 +81,7 @@ Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 Summary of degrees and main experiences
 ------
 - **Ph.D.** in Computer Science at the University of São Paulo (2016 - 2020)
-- **Student supervisor** in the Postgraduate course on Applied Computing in Education (2020)
+- **Co-Supervisor** in the Postgraduate course of Applied Computing in Education (2020)
 - **Visiting Ph.D. student researcher** at University of Leicester (2018 - 2019)
 - **M.Sc.** in Computer Science at the University of São Paulo (2014 - 2016)
 - **Scientific Initiation scholar** at the LabES/UFPa (2013)
