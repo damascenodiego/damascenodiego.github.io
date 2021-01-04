@@ -1,13 +1,12 @@
 ---
-title: "Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Research]"
+title: "Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Artifact]"
 collection: publications
 permalink: /publication/2019-01-01-Learning-from-Difference-An-Automated-Approach-for-Learning-Family-Models-from-Software-Product-Lines-
-excerpt: '[[PDF]](/publications/pdf/damascenoetal_splc2019.pdf) [[Slide]](/publications/pdf/damascenoetal_splc2019_slide.pdf)'
+excerpt: '[[PDF]](/publications/pdf/damascenoetal_splc2019_artifact.pdf)'
 date: 2019-01-01
-venue: 'In the proceedings of Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A'
-paperurl: 'http://doi.acm.org/10.1145/3336294.3336307'
-citation: ' Carlos Damasceno,  Mohammad Mousavi,  Adenilso Simao, &quot;Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Research].&quot; In the proceedings of Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A, 2019.'
+venue: 'the proceedings of Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A'
+citation: ' Carlos Damasceno,  Mohammad Mousavi,  Adenilso Simao, &quot;Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Artifact].&quot; the proceedings of Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A, 2019.'
 ---
-[[PDF]](/publications/pdf/damascenoetal_splc2019.pdf) [[Slide]](/publications/pdf/damascenoetal_splc2019_slide.pdf)
+[[PDF]](/publications/pdf/damascenoetal_splc2019_artifact.pdf)
 
-[Access paper here](http://doi.acm.org/10.1145/3336294.3336307){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Learning+from+Difference:+An+Automated+Approach+for+Learning+Family+Models+from+Software+Product+Lines+[Artifact]){:target="_blank"} for full citation
