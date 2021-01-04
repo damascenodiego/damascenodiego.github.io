@@ -1,12 +1,13 @@
 ---
-title: "Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Artifact]"
+title: "Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Research]"
 collection: publications
 permalink: /publication/2019-01-01-Learning-from-Difference-An-Automated-Approach-for-Learning-Family-Models-from-Software-Product-Lines-
-excerpt: '[[PDF]](/publications/pdf/damascenoetal_splc2019_artifact.pdf)'
+excerpt: '[[URL]](http://doi.acm.org/10.1145/3336294.3336307) [[PDF]](/publications/pdf/damascenoetal_splc2019.pdf) [[Slide]](/publications/pdf/damascenoetal_splc2019_slide.pdf)'
 date: 2019-01-01
 venue: 'Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A'
-citation: ' Carlos Damasceno,  Mohammad Mousavi,  Adenilso Simao, &quot;Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Artifact].&quot; Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A, 2019.'
+paperurl: 'http://doi.acm.org/10.1145/3336294.3336307'
+citation: ' Carlos Damasceno,  Mohammad Mousavi,  Adenilso Simao, &quot;Learning from Difference: An Automated Approach for Learning Family Models from Software Product Lines [Research].&quot; Proceedings of the 23rd International Systems and Software Product Line Conference - Volume A, 2019.'
 ---
-[[PDF]](/publications/pdf/damascenoetal_splc2019_artifact.pdf)
+[[URL]](http://doi.acm.org/10.1145/3336294.3336307) [[PDF]](/publications/pdf/damascenoetal_splc2019.pdf) [[Slide]](/publications/pdf/damascenoetal_splc2019_slide.pdf)
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=Learning+from+Difference:+An+Automated+Approach+for+Learning+Family+Models+from+Software+Product+Lines+[Artifact]){:target="_blank"} for full citation
+[Access paper here](http://doi.acm.org/10.1145/3336294.3336307){:target="_blank"}
