@@ -13,3 +13,5 @@ In this talk I give a brief introduction to the concept of active model learning
 The presentation is available [here]({{ '/talks/pdf/Damasceno CDN 2021-02-24 AI_in_SE.pptx' | relative_url }}) and can be seen below.
 
 <iframe src="https://docs.google.com/gview?url={{ '/talks/pdf/Damasceno CDN 2021-02-24 AI_in_SE.pptx' | prepend: site.url }}&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+An exercise for the talk is available [here]({{ '/talks/pdf/homework_20210224_ufopa_ai_in_se.pdf' | relative_url }}).
