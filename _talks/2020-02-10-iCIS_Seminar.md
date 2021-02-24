@@ -3,7 +3,7 @@ title: Software Science Seminar (iCIS @ Radboud University)
 date: 2020-02-10 10:30:00-1000
 ---
 
-Today I had my first presentation at the iCIS seminar in Radboud University.
+Today I had my first presentation in the iCIS seminar at Radboud University.
 
 In in this presentation, I showed some of the main findings of [my paper recently published at the Empirical Software Engineering Journal](https://doi.org/10.1007/s10664-020-09912-w).
 Here, I introduce an approach for learning 150% models from Mealy machines representing product line instances.
