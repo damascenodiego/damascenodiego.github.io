@@ -55,10 +55,10 @@ He holds a Bachelor's in Computer Science (2008-2014) from
 the [Federal University of Pará (UFPa)](http://www.icen.ufpa.br/). During his undergraduate course, he had working and
 research experiences as a _Software Engineering Intern_
 at [Siemens](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html), and _Scientific Initiation
-Fellow_ of multiple research laboratories at UFPa, including Software Engineering
-Laboratory ([LabES](http://www.labes.ufpa.br/)), High-Performance Network Planning
-Laboratory ([LPRAD](http://lprad.ufpa.br/)), and Laboratory of Computational
-Intelligence ([LINC](http://linc.ufpa.br/)).
+Fellow_ in multiple research laboratories at UFPa, including 
+Software Engineering Laboratory ([LabES](http://www.labes.ufpa.br/)), 
+High-Performance Network Planning Laboratory ([LPRAD](http://lprad.ufpa.br/)), and 
+Laboratory of Computational Intelligence ([LINC](http://linc.ufpa.br/)).
 
 Download
 ------
