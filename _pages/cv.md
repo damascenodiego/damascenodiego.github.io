@@ -24,17 +24,19 @@ Summary of Degrees and Main Experiences
 Long bio
 ------
 
-Carlos Diego Nascimento Damasceno is currently a _Postdoctoral Researcher_ at the _Institute for Computing and
-Information Sciences ([ICIS](https://www.ru.nl/icis/))_ of 
-**[Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/)**. At Radboud University, he develops
-research work in the fields of model-based and product-line engineering. He has teaching and student supervision
-activities at the BSc and MSc levels. His research interests range from empirical software engineering, software product
-lines, software testing, model learning, and research software artifacts.
-
-He is a former _Student supervisor_ and _Online tutor_ of
-the [Postgraduate Program in Computing Applied to Education](http://especializacao.icmc.usp.br/) at the University of
-Sao Paulo (CAE-USP). From March to November 2020, he worked in the CAE-USP course supervising students developing term
-papers on _Educational Data Mining_ and producing video content for a module on _Scientific Writing and Methodology_.
+Diego Damasceno 
+[//]: # (His research interests range from empirical software engineering, software product lines, software testing, model learning, and research software artifacts.)
+is a former _Postdoctoral Researcher_ at the _Institute for Computing and
+Information Sciences ([ICIS](https://www.ru.nl/icis/))_ of
+**[Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/)**. 
+At Radboud University, he developed research in model-based and product-line engineering. 
+He performed teaching and student supervision activities at the BSc and MSc levels.
+From March to November 2020, he worked as a _Student supervisor_ and _Online tutor_ in 
+the [Postgraduate Program in Computing Applied to Education](http://especializacao.icmc.usp.br/) 
+at the University of Sao Paulo (CAE-USP).
+At the CAE-USP, he supervised six postgraduate students developing term
+papers on _Educational Data Mining_.
+He also worked on producing educational video content for a module on _Scientific Writing and Methodology_.
 
 Between 2016 and 2020, he was a research assistant and PhD candidate at the University of São
 Paulo ([ICMC-USP](http://icmc.usp.br/)) under the joint supervision
