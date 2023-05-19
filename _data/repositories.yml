@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - damascenodiego
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - damascenodiego/Academic-CV-by-Diego
+  - damascenodiego/mdeartifacts.github.io/
+  - damascenodiego/learningFFSM
+  - damascenodiego/DynamicLstarM
+  - damascenodiego/pygame-logitechG29_wheel
+  - damascenodiego/GitCrashCourse
+  - damascenodiego/rbac-bt
