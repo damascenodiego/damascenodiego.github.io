@@ -10,12 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <br/>
-    <p>Radboud University</p>
-    <p>Faculty of Science</p>
-    <p>Institute for Computing and Information Sciences</p>
-    <p>Toernooiveld 212</p>
-    <p>6525 EC Nijmegen, NL</p>
-    <br/>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,31 +22,20 @@ the future of software development is predicted to rely heavily on model-based m
 with over 65% of all software development functions adopting this approach. 
 Despite this exciting potential, much work must be done before software engineering becomes truly "model-based".
 
-I am a postdoctoral researcher at [Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/), 
-affiliated with the Department of Software Science ([SwS]([SwS](https://mbsd.cs.ru.nl/))). 
-I am passionate about addressing the challenges of constructing and managing software models. 
-Over the last decade, I have been dedicated to developing the next generation of model-based tools and methodologies for designing and analyzing complex software systems 
-while using empirical methods to inform researchers and practitioners about the efficiency and effectiveness of model-based software engineering.
-
+I am a design engineer at [ASML](https://www.asml.com/) working on 
+developing model-based testing methodologies for semiconductors manufacturing. 
 I invite you to explore my website and learn more about my
 [career](https://damascenodiego.github.io/cv/),
 [stories](https://damascenodiego.github.io/blog/), and
-[publications](https://damascenodiego.github.io/publications/)
-as I strive to shape the future of software engineering through cutting-edge model-based research and development. 
-
-Join me on this exciting journey towards a world with more efficient, effective, and model-based software engineering methodologies!
+[publications](https://damascenodiego.github.io/publications/). 
 
 Main Interests
 ------
 
-- Software Engineering (particularly, modeling, analysis, and testing)
 - Model-Based Testing (MBT) and Model-Driven Engineering (MDE)
+- Software Product Lines, Variability and Configurability
+- Software and System Modeling Methodologies
 - Test Case Generation and Prioritization
-- Empirical Software Engineering
-- Software Product Lines (SPL)
-- Active Model learning
-- Project Management
-- Open Science
 
 <br/>
 

@@ -9,6 +9,7 @@ cv_pdf: /assets/pdf/damasceno_cv.pdf
 
 Summary of Degrees and Main Experiences
 ------
+- **Design Engineer** - Model-Based Testing Methodologies at ASML (2023 - Current)
 - **Postdoctoral Researcher** in Software Science at Radboud University Nijmegen (2020 - 2023)
 - **MBA** in Project Management at University of São Paulo (2020 - 2021)
 - **PhD** in Computer Science at University of São Paulo (2016 - 2020)
@@ -24,8 +25,11 @@ Summary of Degrees and Main Experiences
 Long bio
 ------
 
-Diego Damasceno 
-is a former _Postdoctoral Researcher_ at the _Institute for Computing and
+Diego Damasceno is currently a Design Engineer at [ASML](https://www.asml.com/).
+At ASML, he works on developing modeling and model-based testing methodologies for 
+semiconductor manufacturing.
+
+He is a former _Postdoctoral Researcher_ at the _Institute for Computing and
 Information Sciences ([ICIS](https://www.ru.nl/icis/))_ of
 **[Radboud University](https://www.ru.nl/english/people/nascimento-damasceno-c/)**. 
 At Radboud University, he developed research in model-based and product-line engineering, 
@@ -63,12 +67,12 @@ Download
 
 <div style="display: table;">
 <div style="display: table-cell;"> 
-    <button name="submit" id="extendcv" STYLE="display:block" onclick="window.open('/assets/pdf/damasceno_cv.pdf'); setTimeout(function() {document.getElementById('resume').style.display = 'block';}, 10000);">
+    <button name="submit" id="extendcv" STYLE="display:block" onclick="window.open('/assets/pdf/damasceno_cv.pdf'); setTimeout(function() {document.getElementById('resume').style.display = 'block';}, 30000);">
         Extended CV
     </button> 
 </div>
 <div style="display: table-cell;"> 
-    <button name="submit" id="resume"   STYLE="display:none"  onclick="window.open('/assets/pdf/damasceno_cv_resume.pdf'); setTimeout(function() {document.getElementById('cvfail').style.display = 'block';}, 30000);">
+    <button name="submit" id="resume"   STYLE="display:none"  onclick="window.open('/assets/pdf/damasceno_cv_resume.pdf'); setTimeout(function() {document.getElementById('cvfail').style.display = 'block';}, 60000);">
         Resume
     </button> 
 </div>
