@@ -22,8 +22,8 @@ the future of software development is predicted to rely heavily on model-based m
 with over 65% of all software development functions adopting this approach. 
 Despite this exciting potential, much work must be done before software engineering becomes truly "model-based".
 
-I am a design engineer at [ASML](https://www.asml.com/) working on 
-developing model-based testing methodologies for semiconductors manufacturing. 
+I am a software engineer at [ASML](https://www.asml.com/) working on 
+developing model-based tools and methodologies for testing semiconductor manufacturing processes. 
 I invite you to explore my website and learn more about my
 [career](https://damascenodiego.github.io/cv/),
 [stories](https://damascenodiego.github.io/blog/), and

@@ -9,7 +9,7 @@ cv_pdf: /assets/pdf/damasceno_cv.pdf
 
 Summary of Degrees and Main Experiences
 ------
-- **Design Engineer** - Model-Based Testing Methodologies at ASML (2023 - Current)
+- **Software Engineer** - Model-Based Testing Methodologies at ASML (2023 - Current)
 - **Postdoctoral Researcher** in Software Science at Radboud University Nijmegen (2020 - 2023)
 - **MBA** in Project Management at University of São Paulo (2020 - 2021)
 - **PhD** in Computer Science at University of São Paulo (2016 - 2020)
@@ -17,7 +17,7 @@ Summary of Degrees and Main Experiences
 - **Visiting PhD Student Researcher** at University of Leicester (2018 - 2019)
 - **MSc** in Computer Science at University of São Paulo (2014 - 2016)
 - **Scientific Initiation Fellow** at the LabES/UFPa (2013)
-- **Software engineering Intern** at Siemens Corporate Research, USA (2012 - 2013)
+- **Software Engineering Intern** at Siemens Corporate Research, USA (2012 - 2013)
 - **Scientific Initiation Fellow** at the LINC/UFPa and LPRAD/UFPa (2010-2012)
 - **BSc** in Computer Science at Federal University of Pará (2008 - 2014)
 
@@ -25,7 +25,7 @@ Summary of Degrees and Main Experiences
 Long bio
 ------
 
-Diego Damasceno is currently a Design Engineer at [ASML](https://www.asml.com/).
+Diego Damasceno is currently a Software Engineer at [ASML](https://www.asml.com/).
 At ASML, he works on developing modeling and model-based testing methodologies for 
 semiconductor manufacturing.
 
