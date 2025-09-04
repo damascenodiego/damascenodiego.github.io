@@ -23,19 +23,21 @@ with over 65% of all software development functions adopting this approach.
 Despite this exciting potential, much work must be done before software engineering becomes truly "model-based".
 
 I am a software engineer and researcher working on 
-developing model-based tools and methodologies for testing semiconductor manufacturing processes. 
+developing model-based tools and methodologies for testing advanced lithography systems. 
 I invite you to explore my website and learn more about my
 [career](https://damascenodiego.github.io/cv/), and
 [publications](https://damascenodiego.github.io/publications/). 
-For my latest activities, feel free to reach my profiles on social media and research portfolios.
+For my latest activities, please visit my social media profiles and research portfolios.
 
 Main Interests
 ------
 
 - Model-Based Testing (MBT) and Model-Driven Engineering (MDE)
+- Generative AI and Meta-heuristics in Software Engineering 
 - Software Product Lines, Variability and Configurability
 - Software and System Modeling Methodologies
 - Test Case Generation and Prioritization
+- Domain-Specific Languages and Metrics
 
 <br/>
 
