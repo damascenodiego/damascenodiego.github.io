@@ -25,7 +25,6 @@ Despite this exciting potential, much work must be done before software engineer
 I am a software engineer and researcher working on 
 developing model-based tools and methodologies for testing advanced lithography systems. 
 I invite you to explore my website and learn more about my
-[career](https://damascenodiego.github.io/cv/), and
 [publications](https://damascenodiego.github.io/publications/). 
 For my latest activities, please visit my social media profiles and research portfolios.
 

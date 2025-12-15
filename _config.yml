@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: CDN
-middle_name: (Diego)
+first_name: Diego
+middle_name: 
 last_name: Damasceno
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -264,7 +264,7 @@ display_tags: ['academia', 'industry'] # this tags will be dispalyed on the fron
 scholar:
 
   last_name: Damasceno
-  first_name: [ "Carlos Diego Nascimento", "Carlos Diego N.", "C. D. N.", "CDN", "CDN (Diego)", "Carlos Diego N", "Carlos Diego", "Diego" ]
+  first_name: [ "Diego" ]
 
   style: ieee
   locale: en
