@@ -1,7 +1,7 @@
 - title: Long bio
   type: list
   contents:
-    - <p>Carlos Diego Nascimento Damasceno is currently a <em>Postdoctoral Researcher</em> at the <em>Institute for Computing and Information Sciences (<a href="https://www.ru.nl/icis/">ICIS</a>)</em> of <strong><a href="https://www.ru.nl/english/people/nascimento-damasceno-c/">Radboud University</a></strong>. At Radboud University, he develops research work in the fields of model-based and product-line engineering. He has teaching and student supervision activities at the BSc and MSc levels. His research interests range from empirical software engineering, software product lines, software testing, model learning, and research software artifacts.</p>
+    - <p>Diego Damasceno is a former <em>Postdoctoral Researcher</em> at the <em>Institute for Computing and Information Sciences (<a href="https://www.ru.nl/icis/">ICIS</a>)</em> of <strong><a href="https://www.ru.nl/english/people/nascimento-damasceno-c/">Radboud University</a></strong>. At Radboud University, he develops research work in the fields of model-based and product-line engineering. He has teaching and student supervision activities at the BSc and MSc levels. His research interests range from empirical software engineering, software product lines, software testing, model learning, and research software artifacts.</p>
       <p>He is a  former <em>Student supervisor</em> and <em>Online tutor</em> of the <a href="http://especializacao.icmc.usp.br/">Postgraduate Program in Computing Applied to Education</a> at the University of Sao Paulo (CAE-USP). From March to November 2020, he worked in the CAE-USP course supervising students developing term papers on <em>Educational Data Mining</em> and producing video content for a module on <em>Scientific Writing and Methodology</em>. </p>
       <p>Between 2016 and 2020, he was a research assistant and PhD candidate at the University of São Paulo (<a href="http://icmc.usp.br/">ICMC-USP</a>) under the joint supervision of <a href="http://lattes.cnpq.br/9836776931160228">Adenilso Simao</a> and <a href="https://www.kcl.ac.uk/people/mohammad-reza-mousavi">Mohammad Mousavi</a>. During his doctoral studies, he spent one year as Visiting PhD student researcher at the <a href="https://le.ac.uk/informatics/">University of Leicester</a>, performing research in the broad field of software engineering. In his <a href="http://www.teses.usp.br/teses/disponiveis/55/55134/tde-02092020-091958/">PhD thesis</a>, he investigated techniques to construct finite state machine models from evolving systems.</p>
       <p>He earned his Master&#39;s degree in Computer Science (2014-2016) also from the ICMC-USP. In his <a href="http://www.teses.usp.br/teses/disponiveis/55/55134/tde-11112016-101158/">MSc dissertation</a>, he performed studies in model-based test generation and prioritization for Role-Based Access Control systems and empirical software engineering.</p>
@@ -118,7 +118,5 @@
   contents:
     - name: Download
       links:
-        - link: /assets/pdf/damasceno_cv.pdf
-          name: Extended CV
         - link: /assets/pdf/damasceno_cv_resume.pdf
           name: Resume
