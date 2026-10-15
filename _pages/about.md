@@ -6,7 +6,7 @@ subtitle: Model-Based Methodologies | Software Engineering | Testing | Variabili
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <br/>
@@ -16,11 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-According to a recent report by [Gartner](https://www.gartner.com/doc/reprints?id=1-27IIPKYV&ct=210923&st=sb), 
-the future of software development is predicted to rely heavily on model-based methodologies, 
-with over 65% of all software development functions adopting this approach. 
-Despite this exciting potential, much work must be done before software engineering becomes truly "model-based".
 
 I am a software engineer and researcher working on 
 developing model-based tools and methodologies for testing advanced lithography systems. 
